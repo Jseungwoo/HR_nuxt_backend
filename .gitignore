@@ -1,12 +1,1 @@
 
-.gradle
-.idea
-.settings
-gradle
-
-.classpath
-.project
-build.gradle
-gradlew
-gradlew.bat
-settings.gradle
